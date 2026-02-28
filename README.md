@@ -1,4 +1,4 @@
-# Hi, I'm Nico
+# Hi, I'm Nico 👋
 
 Based in Berlin. I started as a backend developer, moved into cloud & kubernetes and now I like building the infrastructure that others build on. Most of my work happens in private gitlab repos and my github mainly reflects contributions to OSS projects.
 
