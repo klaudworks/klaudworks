@@ -416,7 +416,7 @@ Quickstart to set up applications on AWS ECS with Fargate Spot using Terraform<b
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/klaudworks/universal-skills">klaudworks/universal-skills</a></b> <i>(creator)</i><br>
-Claude Code skills collection<br>
+MCP server that brings Claude Code's skills feature to any AI coding agent<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
 
 </td>
