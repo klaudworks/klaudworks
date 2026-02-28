@@ -12,7 +12,7 @@ Based in Berlin. I started as a backend developer, moved into cloud & kubernetes
 <tr>
 <td valign="top" width="50%">
 
-**[gaul/s3proxy](https://github.com/gaul/s3proxy)**
+<b><a href="https://github.com/gaul/s3proxy">gaul/s3proxy</a></b><br>
 Access other storage backends via the S3 API
 
 <details>
@@ -41,7 +41,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[KafScale/platform](https://github.com/KafScale/platform)**
+<b><a href="https://github.com/KafScale/platform">KafScale/platform</a></b><br>
 Kafka-compatible data streaming on S3
 
 <details>
@@ -73,7 +73,7 @@ Issues:
 <tr>
 <td valign="top" width="50%">
 
-**[giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator)**
+<b><a href="https://github.com/giantswarm/etcd-backup-operator">giantswarm/etcd-backup-operator</a></b><br>
 Creates etcd backups and uploads them to AWS S3
 
 <details>
@@ -98,7 +98,7 @@ PRs:
 <tr>
 <td valign="top" width="50%">
 
-**[klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator)** *(creator)*
+<b><a href="https://github.com/klaudworks/kubeconfig-operator">klaudworks/kubeconfig-operator</a></b> <i>(creator)</i><br>
 Generates restricted kubeconfigs for Kubernetes
 
 <details>
@@ -112,7 +112,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts)**
+<b><a href="https://github.com/open-telemetry/opentelemetry-helm-charts">open-telemetry/opentelemetry-helm-charts</a></b><br>
 OpenTelemetry Helm Charts
 
 <details>
@@ -136,7 +136,7 @@ Issues:
 <tr>
 <td valign="top" width="50%">
 
-**[crossplane-contrib/provider-http](https://github.com/crossplane-contrib/provider-http)**
+<b><a href="https://github.com/crossplane-contrib/provider-http">crossplane-contrib/provider-http</a></b><br>
 Crossplane Provider for HTTP requests as resources
 
 <details>
@@ -155,7 +155,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
+<b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b><br>
 Declarative GitOps CD for Kubernetes
 
 <details>
@@ -175,7 +175,7 @@ Issues:
 <tr>
 <td valign="top" width="50%">
 
-**[awslabs/cdk-eks-blueprints](https://github.com/awslabs/cdk-eks-blueprints)**
+<b><a href="https://github.com/awslabs/cdk-eks-blueprints">awslabs/cdk-eks-blueprints</a></b><br>
 AWS CDK EKS Blueprints
 
 <details>
@@ -189,7 +189,7 @@ PRs:
 </td>
 <td valign="top" width="50%">
 
-**[cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s)**
+<b><a href="https://github.com/cdk8s-team/cdk8s">cdk8s-team/cdk8s</a></b><br>
 Define Kubernetes apps using programming languages
 
 <details>
@@ -208,7 +208,7 @@ PRs:
 <tr>
 <td valign="top" width="50%">
 
-**[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)**
+<b><a href="https://github.com/kubernetes-sigs/kubebuilder">kubernetes-sigs/kubebuilder</a></b><br>
 SDK for building Kubernetes APIs
 
 <details>
@@ -222,7 +222,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud)**
+<b><a href="https://github.com/cloudnative-pg/plugin-barman-cloud">cloudnative-pg/plugin-barman-cloud</a></b><br>
 Barman Cloud plugin for CloudNativePG
 
 <details>
@@ -242,13 +242,13 @@ Issues:
 <tr>
 <td valign="top" width="50%">
 
-**[klaudworks/hasura-helm-chart](https://github.com/klaudworks/hasura-helm-chart)** *(creator)*
+<b><a href="https://github.com/klaudworks/hasura-helm-chart">klaudworks/hasura-helm-chart</a></b> <i>(creator)</i><br>
 Helm chart to deploy Hasura with metadata and migrations from a git repo
 
 </td>
 <td valign="top" width="50%">
 
-**[kutespaces/argocd](https://github.com/kutespaces/argocd)** *(creator)*
+<b><a href="https://github.com/kutespaces/argocd">kutespaces/argocd</a></b> <i>(creator)</i><br>
 Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 
 </td>
@@ -263,13 +263,13 @@ Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 <tr>
 <td valign="top" width="50%">
 
-**[skills-directory/skill-codex](https://github.com/skills-directory/skill-codex)** *(creator)*
+<b><a href="https://github.com/skills-directory/skill-codex">skills-directory/skill-codex</a></b> <i>(creator)</i><br>
 A Claude Code skill to delegate prompts to Codex
 
 </td>
 <td valign="top" width="50%">
 
-**[klaudworks/universal-skills](https://github.com/klaudworks/universal-skills)** *(creator)*
+<b><a href="https://github.com/klaudworks/universal-skills">klaudworks/universal-skills</a></b> <i>(creator)</i><br>
 Claude Code skills collection
 
 </td>
@@ -280,7 +280,7 @@ Claude Code skills collection
 <tr>
 <td valign="top" width="50%">
 
-**[BerriAI/litellm](https://github.com/BerriAI/litellm)**
+<b><a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></b><br>
 Python SDK & Proxy Server to call 100+ LLM APIs
 
 <details>
@@ -297,7 +297,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[apache/flink-agents](https://github.com/apache/flink-agents)**
+<b><a href="https://github.com/apache/flink-agents">apache/flink-agents</a></b><br>
 Agentic AI framework based on Apache Flink
 
 <details>
@@ -315,31 +315,6 @@ Issues:
 </tr>
 </table>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)**
-Curated list of skills, hooks, and plugins for Claude Code
-
-<details>
-<summary>1 issue</summary>
-
-Issues:
-- [[Resource]: Codex integration via skill](https://github.com/hesreallyhim/awesome-claude-code/issues/271)
-
-</details>
-
-</td>
-<td valign="top" width="50%">
-
-**[travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)**
-Curated list of Claude Skills and resources
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### Data & Stream Processing
@@ -348,7 +323,7 @@ Curated list of Claude Skills and resources
 <tr>
 <td valign="top" width="50%">
 
-**[dbs-leipzig/gradoop](https://github.com/dbs-leipzig/gradoop)**
+<b><a href="https://github.com/dbs-leipzig/gradoop">dbs-leipzig/gradoop</a></b><br>
 Distributed graph analytics with Apache Flink
 
 <details>
@@ -374,7 +349,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[lensesio/stream-reactor](https://github.com/lensesio/stream-reactor)**
+<b><a href="https://github.com/lensesio/stream-reactor">lensesio/stream-reactor</a></b><br>
 Open source Kafka Connectors
 
 </td>
@@ -385,7 +360,7 @@ Open source Kafka Connectors
 <tr>
 <td valign="top" width="50%">
 
-**[cloudtools/troposphere](https://github.com/cloudtools/troposphere)**
+<b><a href="https://github.com/cloudtools/troposphere">cloudtools/troposphere</a></b><br>
 Python library to create AWS CloudFormation descriptions
 
 <details>
@@ -410,7 +385,7 @@ PRs:
 <tr>
 <td valign="top" width="50%">
 
-**[Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)**
+<b><a href="https://github.com/Beingpax/VoiceInk">Beingpax/VoiceInk</a></b><br>
 Voice-to-text app for macOS
 
 <details>
@@ -428,7 +403,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)**
+<b><a href="https://github.com/zereight/gitlab-mcp">zereight/gitlab-mcp</a></b><br>
 GitLab MCP server
 
 <details>
@@ -447,7 +422,7 @@ PRs:
 <tr>
 <td valign="top" width="50%">
 
-**[hasura/graphql-engine](https://github.com/hasura/graphql-engine)**
+<b><a href="https://github.com/hasura/graphql-engine">hasura/graphql-engine</a></b><br>
 Blazing fast, instant realtime GraphQL APIs
 
 <details>
@@ -461,7 +436,7 @@ Issues:
 </td>
 <td valign="top" width="50%">
 
-**[fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)**
+<b><a href="https://github.com/fastapi/full-stack-fastapi-template">fastapi/full-stack-fastapi-template</a></b><br>
 Full stack FastAPI template
 
 <details>
@@ -480,7 +455,7 @@ Issues:
 <tr>
 <td valign="top" width="50%">
 
-**[fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils)**
+<b><a href="https://github.com/fastapiutils/fastapi-utils">fastapiutils/fastapi-utils</a></b><br>
 Reusable utilities for FastAPI
 
 <details>
@@ -494,7 +469,7 @@ PRs:
 </td>
 <td valign="top" width="50%">
 
-**[heroku/12factor](https://github.com/heroku/12factor)**
+<b><a href="https://github.com/heroku/12factor">heroku/12factor</a></b><br>
 The Twelve-Factor App methodology
 
 <details>
@@ -513,13 +488,13 @@ PRs:
 <tr>
 <td valign="top" width="50%">
 
-**[klaudworks/gptprep](https://github.com/klaudworks/gptprep)** *(creator)*
+<b><a href="https://github.com/klaudworks/gptprep">klaudworks/gptprep</a></b> <i>(creator)</i><br>
 Filter & load your code into the clipboard for LLM context
 
 </td>
 <td valign="top" width="50%">
 
-**[klaudworks/docker-compose-ansible](https://github.com/klaudworks/docker-compose-ansible)** *(creator)*
+<b><a href="https://github.com/klaudworks/docker-compose-ansible">klaudworks/docker-compose-ansible</a></b> <i>(creator)</i><br>
 Docker Compose with Ansible image
 
 </td>
