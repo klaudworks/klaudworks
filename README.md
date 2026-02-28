@@ -8,7 +8,7 @@ Based in Berlin. I started as a backend developer, moved into cloud & kubernetes
 
 ### S3 & Object Storage
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -69,9 +69,9 @@ Issues:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 <b><a href="https://github.com/giantswarm/etcd-backup-operator">giantswarm/etcd-backup-operator</a></b><br>
 Creates etcd backups and uploads them to AWS S3
@@ -85,8 +85,6 @@ PRs:
 </details>
 
 </td>
-<td valign="top" width="50%">
-</td>
 </tr>
 </table>
 
@@ -94,20 +92,12 @@ PRs:
 
 ### Kubernetes & Cloud Native
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/klaudworks/kubeconfig-operator">klaudworks/kubeconfig-operator</a></b> <i>(creator)</i><br>
 Generates restricted kubeconfigs for Kubernetes
-
-<details>
-<summary>1 issue</summary>
-
-Issues:
-- [single install.yaml](https://github.com/klaudworks/kubeconfig-operator/issues/1)
-
-</details>
 
 </td>
 <td valign="top" width="50%">
@@ -132,7 +122,7 @@ Issues:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -171,7 +161,7 @@ Issues:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -204,7 +194,7 @@ PRs:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -238,15 +228,9 @@ Issues:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
-
-<b><a href="https://github.com/klaudworks/hasura-helm-chart">klaudworks/hasura-helm-chart</a></b> <i>(creator)</i><br>
-Helm chart to deploy Hasura with metadata and migrations from a git repo
-
-</td>
-<td valign="top" width="50%">
+<td valign="top">
 
 <b><a href="https://github.com/kutespaces/argocd">kutespaces/argocd</a></b> <i>(creator)</i><br>
 Preconfigured learning environment for GitOps with Kubernetes & Argo CD
@@ -259,7 +243,7 @@ Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 
 ### AI & LLM Tooling
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -276,7 +260,7 @@ Claude Code skills collection
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -319,7 +303,7 @@ Issues:
 
 ### Data & Stream Processing
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -352,13 +336,21 @@ Issues:
 <b><a href="https://github.com/lensesio/stream-reactor">lensesio/stream-reactor</a></b><br>
 Open source Kafka Connectors
 
+<details>
+<summary>1 PR</summary>
+
+PRs:
+- [Fix connect.s3.vhost.bucket inverted semantics](https://github.com/lensesio/stream-reactor/pull/2013)
+
+</details>
+
 </td>
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top">
 
 <b><a href="https://github.com/cloudtools/troposphere">cloudtools/troposphere</a></b><br>
 Python library to create AWS CloudFormation descriptions
@@ -372,8 +364,6 @@ PRs:
 </details>
 
 </td>
-<td valign="top" width="50%">
-</td>
 </tr>
 </table>
 
@@ -381,7 +371,7 @@ PRs:
 
 ### Developer Tools & Other
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -418,7 +408,7 @@ PRs:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -451,7 +441,7 @@ Issues:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -484,7 +474,7 @@ PRs:
 </tr>
 </table>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
