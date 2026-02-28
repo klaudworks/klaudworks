@@ -240,7 +240,12 @@ Issues:
 Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 
 </td>
-<td></td>
+<td valign="top">
+
+<b><a href="https://github.com/kutespaces/strimzi-kafka-operator">kutespaces/strimzi-kafka-operator</a></b> <i>(creator)</i><br>
+Preconfigured Strimzi Kafka environment for Kubernetes
+
+</td>
 </tr>
 <tr>
 <td>
