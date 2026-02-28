@@ -11,6 +11,7 @@ Based in Berlin. I started as a backend developer, moved into cloud & kubernetes
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/gaul/s3proxy">gaul/s3proxy</a></b><br>
 Access other storage backends via the S3 API
@@ -40,6 +41,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/KafScale/platform">KafScale/platform</a></b><br>
 Kafka-compatible data streaming on S3
@@ -95,12 +97,14 @@ PRs:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/klaudworks/kubeconfig-operator">klaudworks/kubeconfig-operator</a></b> <i>(creator)</i><br>
 Generates restricted kubeconfigs for Kubernetes
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/open-telemetry/opentelemetry-helm-charts">open-telemetry/opentelemetry-helm-charts</a></b><br>
 OpenTelemetry Helm Charts
@@ -125,6 +129,7 @@ Issues:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/crossplane-contrib/provider-http">crossplane-contrib/provider-http</a></b><br>
 Crossplane Provider for HTTP requests as resources
@@ -144,6 +149,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b><br>
 Declarative GitOps CD for Kubernetes
@@ -164,6 +170,7 @@ Issues:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/awslabs/cdk-eks-blueprints">awslabs/cdk-eks-blueprints</a></b><br>
 AWS CDK EKS Blueprints
@@ -178,6 +185,7 @@ PRs:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/cdk8s-team/cdk8s">cdk8s-team/cdk8s</a></b><br>
 Define Kubernetes apps using programming languages
@@ -197,6 +205,7 @@ PRs:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/kubernetes-sigs/kubebuilder">kubernetes-sigs/kubebuilder</a></b><br>
 SDK for building Kubernetes APIs
@@ -211,6 +220,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/cloudnative-pg/plugin-barman-cloud">cloudnative-pg/plugin-barman-cloud</a></b><br>
 Barman Cloud plugin for CloudNativePG
@@ -246,12 +256,14 @@ Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/skills-directory/skill-codex">skills-directory/skill-codex</a></b> <i>(creator)</i><br>
 A Claude Code skill to delegate prompts to Codex
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/klaudworks/universal-skills">klaudworks/universal-skills</a></b> <i>(creator)</i><br>
 Claude Code skills collection
@@ -263,6 +275,7 @@ Claude Code skills collection
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/BerriAI/litellm">BerriAI/litellm</a></b><br>
 Python SDK & Proxy Server to call 100+ LLM APIs
@@ -280,6 +293,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/apache/flink-agents">apache/flink-agents</a></b><br>
 Agentic AI framework based on Apache Flink
@@ -306,6 +320,7 @@ Issues:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/dbs-leipzig/gradoop">dbs-leipzig/gradoop</a></b><br>
 Distributed graph analytics with Apache Flink
@@ -332,6 +347,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/lensesio/stream-reactor">lensesio/stream-reactor</a></b><br>
 Open source Kafka Connectors
@@ -374,6 +390,7 @@ PRs:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/Beingpax/VoiceInk">Beingpax/VoiceInk</a></b><br>
 Voice-to-text app for macOS
@@ -392,6 +409,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/zereight/gitlab-mcp">zereight/gitlab-mcp</a></b><br>
 GitLab MCP server
@@ -411,6 +429,7 @@ PRs:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/hasura/graphql-engine">hasura/graphql-engine</a></b><br>
 Blazing fast, instant realtime GraphQL APIs
@@ -425,6 +444,7 @@ Issues:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/fastapi/full-stack-fastapi-template">fastapi/full-stack-fastapi-template</a></b><br>
 Full stack FastAPI template
@@ -444,6 +464,7 @@ Issues:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/fastapiutils/fastapi-utils">fastapiutils/fastapi-utils</a></b><br>
 Reusable utilities for FastAPI
@@ -458,6 +479,7 @@ PRs:
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/heroku/12factor">heroku/12factor</a></b><br>
 The Twelve-Factor App methodology
@@ -477,12 +499,14 @@ PRs:
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/klaudworks/gptprep">klaudworks/gptprep</a></b> <i>(creator)</i><br>
 Filter & load your code into the clipboard for LLM context
 
 </td>
 <td valign="top" width="50%">
+<img width="441" height="1">
 
 <b><a href="https://github.com/klaudworks/docker-compose-ansible">klaudworks/docker-compose-ansible</a></b> <i>(creator)</i><br>
 Docker Compose with Ansible image
