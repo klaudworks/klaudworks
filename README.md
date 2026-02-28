@@ -96,7 +96,13 @@ PRs:
 </details>
 
 </td>
-<td></td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
 </tr>
 </table>
 
@@ -120,7 +126,13 @@ OpenTelemetry Helm Charts
 </td>
 </tr>
 <tr>
-<td></td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
 <td valign="top">
 
 <details>
@@ -185,29 +197,6 @@ Issues:
 <tr>
 <td valign="top">
 
-<b><a href="https://github.com/awslabs/cdk-eks-blueprints">awslabs/cdk-eks-blueprints</a></b><br>
-AWS CDK EKS Blueprints
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td valign="top">
-
-<details>
-<summary>1 PR</summary>
-
-PRs:
-- [Add zone id filter using external args](https://github.com/awslabs/cdk-eks-blueprints/pull/818)
-
-</details>
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td valign="top">
-
 <b><a href="https://github.com/kubernetes-sigs/kubebuilder">kubernetes-sigs/kubebuilder</a></b><br>
 SDK for building Kubernetes APIs
 
@@ -251,29 +240,98 @@ Issues:
 Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 
 </td>
+<td></td>
+</tr>
+<tr>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+### AWS
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<b><a href="https://github.com/awslabs/cdk-eks-blueprints">awslabs/cdk-eks-blueprints</a></b><br>
+AWS CDK EKS Blueprints
+
+</td>
+<td valign="top" width="50%">
+
+<b><a href="https://github.com/cloudtools/troposphere">cloudtools/troposphere</a></b><br>
+Python library to create AWS CloudFormation descriptions
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<details>
+<summary>1 PR</summary>
+
+PRs:
+- [Add zone id filter using external args](https://github.com/awslabs/cdk-eks-blueprints/pull/818)
+
+</details>
+
+</td>
+<td valign="top">
+
+<details>
+<summary>1 PR</summary>
+
+PRs:
+- [Support for OpenApiVersion in serverless.Api](https://github.com/cloudtools/troposphere/pull/1778)
+
+</details>
+
+</td>
+</tr>
+<tr>
 <td valign="top">
 
 <b><a href="https://github.com/canida-software/k8s-on-aws">canida-software/k8s-on-aws</a></b> <i>(creator)</i><br>
 Accompanies a series of blogposts about Kubernetes on AWS
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td valign="top">
 
 <b><a href="https://github.com/canida-software/terraform-ecs-fargate-spot-quickstart">canida-software/terraform-ecs-fargate-spot-quickstart</a></b> <i>(creator)</i><br>
 Quickstart to set up applications on AWS ECS with Fargate Spot using Terraform
 
 </td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
 </tr>
 </table>
 
@@ -297,8 +355,20 @@ A Claude Code skill to delegate prompts to Codex
 </td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
 </tr>
 <tr>
 <td valign="top">
@@ -401,29 +471,6 @@ PRs:
 
 </td>
 </tr>
-<tr>
-<td valign="top">
-
-<b><a href="https://github.com/cloudtools/troposphere">cloudtools/troposphere</a></b><br>
-Python library to create AWS CloudFormation descriptions
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td valign="top">
-
-<details>
-<summary>1 PR</summary>
-
-PRs:
-- [Support for OpenApiVersion in serverless.Api](https://github.com/cloudtools/troposphere/pull/1778)
-
-</details>
-
-</td>
-<td></td>
-</tr>
 </table>
 
 ---
@@ -494,6 +541,12 @@ Issues:
 </details>
 
 </td>
-<td></td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
 </tr>
 </table>
