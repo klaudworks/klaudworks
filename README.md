@@ -278,16 +278,20 @@ Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 <tr>
 <td valign="top" width="50%">
 
-<b><a href="https://github.com/skills-directory/skill-codex">skills-directory/skill-codex</a></b> <i>(creator)</i><br>
-A Claude Code skill to delegate prompts to Codex
-
-</td>
-<td valign="top" width="50%">
-
 <b><a href="https://github.com/klaudworks/universal-skills">klaudworks/universal-skills</a></b> <i>(creator)</i><br>
 Claude Code skills collection
 
 </td>
+<td valign="top" width="50%">
+
+<b><a href="https://github.com/skills-directory/skill-codex">skills-directory/skill-codex</a></b> <i>(creator)</i><br>
+A Claude Code skill to delegate prompts to Codex
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td valign="top">
