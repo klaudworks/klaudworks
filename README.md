@@ -13,7 +13,7 @@ Based in Berlin. I started as a backend developer, moved into cloud & kubernetes
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/klaudworks/kubeconfig-operator">klaudworks/kubeconfig-operator</a></b> <i>(creator)</i><br>
-Generates restricted kubeconfigs for Kubernetes<br>
+Kubernetes operator that creates and manages permission-restricted kubeconfigs<br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff" alt="Go">
 
 </td>
