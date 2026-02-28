@@ -2,9 +2,6 @@
 
 Based in Berlin. I started as a backend developer, moved into cloud & kubernetes and now I like building the infrastructure that others build on. Most of my work happens in private gitlab repos and my github mainly reflects contributions to OSS projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-duldhardt/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/klaudworks)
-
 ---
 
 ## Open Source Contributions
@@ -18,19 +15,8 @@ Based in Berlin. I started as a backend developer, moved into cloud & kubernetes
 **[gaul/s3proxy](https://github.com/gaul/s3proxy)**
 Access other storage backends via the S3 API
 
-</td>
-<td valign="top" width="50%">
-
-**[KafScale/platform](https://github.com/KafScale/platform)**
-Kafka-compatible data streaming on S3
-
-</td>
-</tr>
-</table>
-
-<details><summary>9 PRs, 11 issues</summary>
-
-#### gaul/s3proxy
+<details>
+<summary>9 PRs, 5 issues</summary>
 
 PRs:
 - [Implement multipart upload for azureblob-sdk provider](https://github.com/gaul/s3proxy/pull/904)
@@ -50,7 +36,16 @@ Issues:
 - [Release 2.8.0](https://github.com/gaul/s3proxy/issues/896)
 - [Autoprocessor fails when using Java 24](https://github.com/gaul/s3proxy/issues/895)
 
-#### KafScale/platform
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+**[KafScale/platform](https://github.com/KafScale/platform)**
+Kafka-compatible data streaming on S3
+
+<details>
+<summary>6 PRs, 6 issues</summary>
 
 PRs:
 - [fix: arm64 images contain amd64 binaries due to hardcoded TARGETARCH default](https://github.com/KafScale/platform/pull/117)
@@ -70,6 +65,10 @@ Issues:
 
 </details>
 
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -77,20 +76,19 @@ Issues:
 **[giantswarm/etcd-backup-operator](https://github.com/giantswarm/etcd-backup-operator)**
 Creates etcd backups and uploads them to AWS S3
 
-</td>
-<td valign="top" width="50%">
-</td>
-</tr>
-</table>
-
-<details><summary>1 PR</summary>
-
-#### giantswarm/etcd-backup-operator
+<details>
+<summary>1 PR</summary>
 
 PRs:
 - [add support for s3 compatible storages](https://github.com/giantswarm/etcd-backup-operator/pull/792)
 
 </details>
+
+</td>
+<td valign="top" width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,19 +101,22 @@ PRs:
 **[klaudworks/kubeconfig-operator](https://github.com/klaudworks/kubeconfig-operator)** *(creator)*
 Generates restricted kubeconfigs for Kubernetes
 
+<details>
+<summary>1 issue</summary>
+
+Issues:
+- [single install.yaml](https://github.com/klaudworks/kubeconfig-operator/issues/1)
+
+</details>
+
 </td>
 <td valign="top" width="50%">
 
 **[open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts)**
 OpenTelemetry Helm Charts
 
-</td>
-</tr>
-</table>
-
-<details><summary>4 PRs, 1 issue</summary>
-
-#### open-telemetry/opentelemetry-helm-charts
+<details>
+<summary>3 PRs, 1 issue</summary>
 
 PRs:
 - [Simplify dependency propagation](https://github.com/open-telemetry/opentelemetry-helm-charts/pull/367)
@@ -125,12 +126,11 @@ PRs:
 Issues:
 - [Checkout service can't access email service](https://github.com/open-telemetry/opentelemetry-helm-charts/issues/363)
 
-#### klaudworks/kubeconfig-operator
-
-Issues:
-- [single install.yaml](https://github.com/klaudworks/kubeconfig-operator/issues/1)
-
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -139,19 +139,8 @@ Issues:
 **[crossplane-contrib/provider-http](https://github.com/crossplane-contrib/provider-http)**
 Crossplane Provider for HTTP requests as resources
 
-</td>
-<td valign="top" width="50%">
-
-**[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
-Declarative GitOps CD for Kubernetes
-
-</td>
-</tr>
-</table>
-
-<details><summary>2 PRs, 4 issues</summary>
-
-#### crossplane-contrib/provider-http
+<details>
+<summary>2 PRs, 2 issues</summary>
 
 PRs:
 - [Add MissingFieldStrategy for KeyInjection](https://github.com/crossplane-contrib/provider-http/pull/83)
@@ -161,13 +150,26 @@ Issues:
 - [Creation of resource is not skipped if resource already exists](https://github.com/crossplane-contrib/provider-http/issues/85)
 - [Replacing sensitive values doesn't work in certain cases](https://github.com/crossplane-contrib/provider-http/issues/84)
 
-#### argoproj/argo-cd
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+**[argoproj/argo-cd](https://github.com/argoproj/argo-cd)**
+Declarative GitOps CD for Kubernetes
+
+<details>
+<summary>2 issues</summary>
 
 Issues:
 - [Faulty unrelated conversion webhook brings argocd to a halt](https://github.com/argoproj/argo-cd/issues/25305)
 - [ServerSideDiff not detecting diff in manifests](https://github.com/argoproj/argo-cd/issues/23127)
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -176,29 +178,31 @@ Issues:
 **[awslabs/cdk-eks-blueprints](https://github.com/awslabs/cdk-eks-blueprints)**
 AWS CDK EKS Blueprints
 
+<details>
+<summary>1 PR</summary>
+
+PRs:
+- [Add zone id filter using external args](https://github.com/awslabs/cdk-eks-blueprints/pull/818)
+
+</details>
+
 </td>
 <td valign="top" width="50%">
 
 **[cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s)**
 Define Kubernetes apps using programming languages
 
-</td>
-</tr>
-</table>
-
-<details><summary>2 PRs</summary>
-
-#### awslabs/cdk-eks-blueprints
-
-PRs:
-- [Add zone id filter using external args](https://github.com/awslabs/cdk-eks-blueprints/pull/818)
-
-#### cdk8s-team/cdk8s
+<details>
+<summary>1 PR</summary>
 
 PRs:
 - [chore(adopters): canida.io](https://github.com/cdk8s-team/cdk8s/pull/1484)
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -207,30 +211,32 @@ PRs:
 **[kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)**
 SDK for building Kubernetes APIs
 
+<details>
+<summary>1 issue</summary>
+
+Issues:
+- [Helm ServiceAccount scaffolding NIL pointers](https://github.com/kubernetes-sigs/kubebuilder/issues/4562)
+
+</details>
+
 </td>
 <td valign="top" width="50%">
 
 **[cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud)**
 Barman Cloud plugin for CloudNativePG
 
-</td>
-</tr>
-</table>
-
-<details><summary>3 issues</summary>
-
-#### kubernetes-sigs/kubebuilder
-
-Issues:
-- [Helm ServiceAccount scaffolding NIL pointers](https://github.com/kubernetes-sigs/kubebuilder/issues/4562)
-
-#### cloudnative-pg/plugin-barman-cloud
+<details>
+<summary>2 issues</summary>
 
 Issues:
 - [Backups are not restorable on low-activity databases due to missing final WAL segment](https://github.com/cloudnative-pg/plugin-barman-cloud/issues/652)
 - [Restore breaks when increasing wal.maxParallel to 8](https://github.com/cloudnative-pg/plugin-barman-cloud/issues/516)
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -277,19 +283,8 @@ Claude Code skills collection
 **[BerriAI/litellm](https://github.com/BerriAI/litellm)**
 Python SDK & Proxy Server to call 100+ LLM APIs
 
-</td>
-<td valign="top" width="50%">
-
-**[apache/flink-agents](https://github.com/apache/flink-agents)**
-Agentic AI framework based on Apache Flink
-
-</td>
-</tr>
-</table>
-
-<details><summary>2 PRs, 3 issues</summary>
-
-#### BerriAI/litellm
+<details>
+<summary>1 PR, 1 issue</summary>
 
 PRs:
 - [fix: stop leaking x-litellm-api-key to Anthropic + support OAuth tokens in passthrough](https://github.com/BerriAI/litellm/pull/20432)
@@ -297,7 +292,16 @@ PRs:
 Issues:
 - [LiteLLM Proxy to Transcription Model Fails](https://github.com/BerriAI/litellm/issues/10584)
 
-#### apache/flink-agents
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+**[apache/flink-agents](https://github.com/apache/flink-agents)**
+Agentic AI framework based on Apache Flink
+
+<details>
+<summary>1 PR, 1 issue</summary>
 
 PRs:
 - [[Bugfix] Use Thread Context ClassLoader for user class loading](https://github.com/apache/flink-agents/pull/514)
@@ -307,12 +311,24 @@ Issues:
 
 </details>
 
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
 **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)**
 Curated list of skills, hooks, and plugins for Claude Code
+
+<details>
+<summary>1 issue</summary>
+
+Issues:
+- [[Resource]: Codex integration via skill](https://github.com/hesreallyhim/awesome-claude-code/issues/271)
+
+</details>
 
 </td>
 <td valign="top" width="50%">
@@ -323,15 +339,6 @@ Curated list of Claude Skills and resources
 </td>
 </tr>
 </table>
-
-<details><summary>1 issue</summary>
-
-#### hesreallyhim/awesome-claude-code
-
-Issues:
-- [[Resource]: Codex integration via skill](https://github.com/hesreallyhim/awesome-claude-code/issues/271)
-
-</details>
 
 ---
 
@@ -344,19 +351,8 @@ Issues:
 **[dbs-leipzig/gradoop](https://github.com/dbs-leipzig/gradoop)**
 Distributed graph analytics with Apache Flink
 
-</td>
-<td valign="top" width="50%">
-
-**[lensesio/stream-reactor](https://github.com/lensesio/stream-reactor)**
-Open source Kafka Connectors
-
-</td>
-</tr>
-</table>
-
-<details><summary>6 PRs, 5 issues</summary>
-
-#### dbs-leipzig/gradoop
+<details>
+<summary>6 PRs, 5 issues</summary>
 
 PRs:
 - [[#551] csv graph collection import and export](https://github.com/dbs-leipzig/gradoop/pull/976)
@@ -375,6 +371,16 @@ Issues:
 
 </details>
 
+</td>
+<td valign="top" width="50%">
+
+**[lensesio/stream-reactor](https://github.com/lensesio/stream-reactor)**
+Open source Kafka Connectors
+
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -382,20 +388,19 @@ Issues:
 **[cloudtools/troposphere](https://github.com/cloudtools/troposphere)**
 Python library to create AWS CloudFormation descriptions
 
-</td>
-<td valign="top" width="50%">
-</td>
-</tr>
-</table>
-
-<details><summary>1 PR</summary>
-
-#### cloudtools/troposphere
+<details>
+<summary>1 PR</summary>
 
 PRs:
 - [Support for OpenApiVersion in serverless.Api](https://github.com/cloudtools/troposphere/pull/1778)
 
 </details>
+
+</td>
+<td valign="top" width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
@@ -408,19 +413,8 @@ PRs:
 **[Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk)**
 Voice-to-text app for macOS
 
-</td>
-<td valign="top" width="50%">
-
-**[zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)**
-GitLab MCP server
-
-</td>
-</tr>
-</table>
-
-<details><summary>2 PRs, 2 issues</summary>
-
-#### Beingpax/VoiceInk
+<details>
+<summary>1 PR, 2 issues</summary>
 
 PRs:
 - [Fix OCR capturing VoiceInk status overlay instead of frontmost app window](https://github.com/Beingpax/VoiceInk/pull/429)
@@ -429,12 +423,25 @@ Issues:
 - [Date and execution time flipped for history request](https://github.com/Beingpax/VoiceInk/issues/430)
 - [Screen content not detected](https://github.com/Beingpax/VoiceInk/issues/424)
 
-#### zereight/gitlab-mcp
+</details>
+
+</td>
+<td valign="top" width="50%">
+
+**[zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)**
+GitLab MCP server
+
+<details>
+<summary>1 PR</summary>
 
 PRs:
 - [Pin zod-to-json-schema to 3.24.5](https://github.com/zereight/gitlab-mcp/pull/285)
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -443,29 +450,31 @@ PRs:
 **[hasura/graphql-engine](https://github.com/hasura/graphql-engine)**
 Blazing fast, instant realtime GraphQL APIs
 
+<details>
+<summary>1 issue</summary>
+
+Issues:
+- [Remote Schema Permissions Default Value Null leads to Validation Error](https://github.com/hasura/graphql-engine/issues/7772)
+
+</details>
+
 </td>
 <td valign="top" width="50%">
 
 **[fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template)**
 Full stack FastAPI template
 
-</td>
-</tr>
-</table>
-
-<details><summary>2 issues</summary>
-
-#### hasura/graphql-engine
-
-Issues:
-- [Remote Schema Permissions Default Value Null leads to Validation Error](https://github.com/hasura/graphql-engine/issues/7772)
-
-#### fastapi/full-stack-fastapi-template
+<details>
+<summary>1 issue</summary>
 
 Issues:
 - [FastApi, Uvicorn and Gunicorn are installed 2 times inside the docker image](https://github.com/fastapi/full-stack-fastapi-template/issues/280)
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -474,29 +483,31 @@ Issues:
 **[fastapiutils/fastapi-utils](https://github.com/fastapiutils/fastapi-utils)**
 Reusable utilities for FastAPI
 
+<details>
+<summary>1 PR</summary>
+
+PRs:
+- [Enable SQLAlchemy Caching for GUID type](https://github.com/fastapiutils/fastapi-utils/pull/223)
+
+</details>
+
 </td>
 <td valign="top" width="50%">
 
 **[heroku/12factor](https://github.com/heroku/12factor)**
 The Twelve-Factor App methodology
 
-</td>
-</tr>
-</table>
-
-<details><summary>2 PRs</summary>
-
-#### fastapiutils/fastapi-utils
-
-PRs:
-- [Enable SQLAlchemy Caching for GUID type](https://github.com/fastapiutils/fastapi-utils/pull/223)
-
-#### heroku/12factor
+<details>
+<summary>1 PR</summary>
 
 PRs:
 - [Update intro.md by changing phrase "scaling up" to "scaling out"](https://github.com/heroku/12factor/pull/287)
 
 </details>
+
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
