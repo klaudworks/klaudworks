@@ -417,7 +417,7 @@ Quickstart to set up applications on AWS ECS with Fargate Spot using Terraform<b
 
 <b><a href="https://github.com/klaudworks/universal-skills">klaudworks/universal-skills</a></b> <i>(creator)</i><br>
 Claude Code skills collection<br>
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" alt="Shell">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
 
 </td>
 <td valign="top" width="50%">
