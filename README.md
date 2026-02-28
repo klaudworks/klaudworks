@@ -251,6 +251,24 @@ Issues:
 Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 
 </td>
+<td valign="top">
+
+<b><a href="https://github.com/canida-software/k8s-on-aws">canida-software/k8s-on-aws</a></b> <i>(creator)</i><br>
+Accompanies a series of blogposts about Kubernetes on AWS
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td valign="top">
+
+<b><a href="https://github.com/canida-software/terraform-ecs-fargate-spot-quickstart">canida-software/terraform-ecs-fargate-spot-quickstart</a></b> <i>(creator)</i><br>
+Quickstart to set up applications on AWS ECS with Fargate Spot using Terraform
+
+</td>
 <td></td>
 </tr>
 <tr>
