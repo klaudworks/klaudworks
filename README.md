@@ -1,6 +1,6 @@
 # Hi, I'm Nico
 
-Based in Berlin. I started as a backend developer, moved into ops and infrastructure - mostly Kubernetes - and now I spend most of my time combining both by writing the infrastructure itself. I like fixing things in projects I use.
+Based in Berlin. I started as a backend developer, moved into cloud & kubernetes and now I like building the infrastructure that others build on. Most of my work happens in private gitlab repos and my github mainly reflects contributions to OSS projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-duldhardt/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/klaudworks)
