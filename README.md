@@ -469,12 +469,7 @@ PRs:
 Blazing fast, instant realtime GraphQL APIs
 
 </td>
-<td valign="top">
-
-<b><a href="https://github.com/fastapi/full-stack-fastapi-template">fastapi/full-stack-fastapi-template</a></b><br>
-Full stack FastAPI template
-
-</td>
+<td></td>
 </tr>
 <tr>
 <td valign="top">
@@ -488,68 +483,6 @@ Issues:
 </details>
 
 </td>
-<td valign="top">
-
-<details>
-<summary>1 issue</summary>
-
-Issues:
-- [FastApi, Uvicorn and Gunicorn are installed 2 times inside the docker image](https://github.com/fastapi/full-stack-fastapi-template/issues/280)
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<b><a href="https://github.com/fastapiutils/fastapi-utils">fastapiutils/fastapi-utils</a></b><br>
-Reusable utilities for FastAPI
-
-</td>
-<td valign="top">
-
-<b><a href="https://github.com/heroku/12factor">heroku/12factor</a></b><br>
-The Twelve-Factor App methodology
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<details>
-<summary>1 PR</summary>
-
-PRs:
-- [Enable SQLAlchemy Caching for GUID type](https://github.com/fastapiutils/fastapi-utils/pull/223)
-
-</details>
-
-</td>
-<td valign="top">
-
-<details>
-<summary>1 PR</summary>
-
-PRs:
-- [Update intro.md by changing phrase "scaling up" to "scaling out"](https://github.com/heroku/12factor/pull/287)
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-<b><a href="https://github.com/klaudworks/gptprep">klaudworks/gptprep</a></b> <i>(creator)</i><br>
-Filter & load your code into the clipboard for LLM context
-
-</td>
-<td valign="top">
-
-<b><a href="https://github.com/klaudworks/docker-compose-ansible">klaudworks/docker-compose-ansible</a></b> <i>(creator)</i><br>
-Docker Compose with Ansible image
-
-</td>
+<td></td>
 </tr>
 </table>
