@@ -430,13 +430,13 @@ Issues:
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/dbs-leipzig/gradoop">dbs-leipzig/gradoop</a></b><br>
-Distributed graph analytics with Apache Flink
+Distributed temporal graph analytics on Apache Flink with pattern matching and graph mining
 
 </td>
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/lensesio/stream-reactor">lensesio/stream-reactor</a></b><br>
-Open source Kafka Connectors
+Collection of open source Kafka Connect connectors for S3, Cassandra, Elasticsearch, MongoDB and more
 
 </td>
 </tr>
@@ -487,13 +487,13 @@ PRs:
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/Beingpax/VoiceInk">Beingpax/VoiceInk</a></b><br>
-Voice-to-text app for macOS
+Voice-to-text app for macOS with near-instant local transcription and screen context awareness
 
 </td>
 <td valign="top" width="50%">
 
 <b><a href="https://github.com/zereight/gitlab-mcp">zereight/gitlab-mcp</a></b><br>
-GitLab MCP server
+Model Context Protocol server for GitLab, enabling AI agents to interact with GitLab APIs
 
 </td>
 </tr>
@@ -529,7 +529,7 @@ PRs:
 <td valign="top">
 
 <b><a href="https://github.com/hasura/graphql-engine">hasura/graphql-engine</a></b><br>
-Blazing fast, instant realtime GraphQL APIs
+Instant realtime GraphQL APIs on Postgres, SQL Server, BigQuery and MongoDB with fine grained access control
 
 </td>
 <td></td>
