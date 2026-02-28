@@ -141,18 +141,30 @@ Issues:
 <tr>
 <td valign="top">
 
-<b><a href="https://github.com/crossplane-contrib/provider-http">crossplane-contrib/provider-http</a></b><br>
-Crossplane Provider for HTTP requests as resources
-
-</td>
-<td valign="top">
-
 <b><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a></b><br>
 Declarative GitOps CD for Kubernetes
 
 </td>
+<td valign="top">
+
+<b><a href="https://github.com/crossplane-contrib/provider-http">crossplane-contrib/provider-http</a></b><br>
+Crossplane Provider for HTTP requests as resources
+
+</td>
 </tr>
 <tr>
+<td valign="top">
+
+<details>
+<summary>2 issues</summary>
+
+Issues:
+- [Faulty unrelated conversion webhook brings argocd to a halt](https://github.com/argoproj/argo-cd/issues/25305)
+- [ServerSideDiff not detecting diff in manifests](https://github.com/argoproj/argo-cd/issues/23127)
+
+</details>
+
+</td>
 <td valign="top">
 
 <details>
@@ -169,18 +181,6 @@ Issues:
 </details>
 
 </td>
-<td valign="top">
-
-<details>
-<summary>2 issues</summary>
-
-Issues:
-- [Faulty unrelated conversion webhook brings argocd to a halt](https://github.com/argoproj/argo-cd/issues/25305)
-- [ServerSideDiff not detecting diff in manifests](https://github.com/argoproj/argo-cd/issues/23127)
-
-</details>
-
-</td>
 </tr>
 <tr>
 <td valign="top">
@@ -189,12 +189,7 @@ Issues:
 AWS CDK EKS Blueprints
 
 </td>
-<td valign="top">
-
-<b><a href="https://github.com/cdk8s-team/cdk8s">cdk8s-team/cdk8s</a></b><br>
-Define Kubernetes apps using programming languages
-
-</td>
+<td></td>
 </tr>
 <tr>
 <td valign="top">
@@ -208,17 +203,7 @@ PRs:
 </details>
 
 </td>
-<td valign="top">
-
-<details>
-<summary>1 PR</summary>
-
-PRs:
-- [chore(adopters): canida.io](https://github.com/cdk8s-team/cdk8s/pull/1484)
-
-</details>
-
-</td>
+<td></td>
 </tr>
 <tr>
 <td valign="top">
@@ -266,6 +251,10 @@ Issues:
 Preconfigured learning environment for GitOps with Kubernetes & Argo CD
 
 </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 </tr>
 </table>
