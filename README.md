@@ -216,7 +216,7 @@ Access other storage backends via the S3 API<br>
 </td>
 <td valign="top" width="50%">
 
-<b><a href="https://github.com/KafScale/platform">KafScale/platform</a></b><br>
+<b><a href="https://github.com/KafScale/platform">KafScale/platform</a></b> <i>(maintainer)</i><br>
 Kafka-compatible data streaming on S3<br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff" alt="Go">
 
@@ -252,17 +252,23 @@ Issues:
 <td valign="top">
 
 <details>
-<summary>6 PRs, 6 issues</summary>
+<summary>10 PRs, 8 issues</summary>
 
 PRs:
+- [fix: move produce tagged fields inside partition loop](https://github.com/KafScale/platform/pull/127)
+- [feat: fetch partition routing and on-demand metadata refresh](https://github.com/KafScale/platform/pull/126)
+- [fix: route group coordination requests to a single broker to prevent split brain](https://github.com/KafScale/platform/pull/125)
+- [fix: prevent duplicate offset assignment with etcd lease-based partition ownership](https://github.com/KafScale/platform/pull/123)
+- [cleanup: remove minio defaults from broker, pass through operator env vars](https://github.com/KafScale/platform/pull/119)
+- [fix: don't block all partitions while one is initializing](https://github.com/KafScale/platform/pull/118)
 - [fix: arm64 images contain amd64 binaries due to hardcoded TARGETARCH default](https://github.com/KafScale/platform/pull/117)
 - [fix: handle orphaned S3 segments gracefully in RestoreFromS3 and Read](https://github.com/KafScale/platform/pull/114)
 - [perf: S3 concurrency semaphore and lock-free flush uploads](https://github.com/KafScale/platform/pull/111)
 - [perf: parallelize S3 segment and index uploads](https://github.com/KafScale/platform/pull/110)
-- [cleanup: remove minio defaults from broker, pass through operator env vars](https://github.com/KafScale/platform/pull/119)
-- [fix: don't block all partitions while one is initializing](https://github.com/KafScale/platform/pull/118)
 
 Issues:
+- [bug: produce request encoding breaks with multiple partitions per topic](https://github.com/KafScale/platform/issues/124)
+- [bug: proxy hangs on acks=0 produce requests](https://github.com/KafScale/platform/issues/122)
 - [bug: consumer groups with more than 1 consumer leads to GroupCoordinator split brain](https://github.com/KafScale/platform/issues/121)
 - [bug: two brokers writing to the same partition can produce overlapping offsets](https://github.com/KafScale/platform/issues/120)
 - [perf: reduce e2e produce + fetch latency on AWS to < 100ms](https://github.com/KafScale/platform/issues/115)
