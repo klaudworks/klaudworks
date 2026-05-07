@@ -181,7 +181,13 @@ Preconfigured Strimzi Kafka environment for Kubernetes<br>
 <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" alt="Shell">
 
 </td>
-<td></td>
+<td valign="top">
+
+<b><a href="https://github.com/kutespaces/kubernetes">kutespaces/kubernetes</a></b> <i>(creator)</i><br>
+Fully preconfigured learning environment for Kubernetes<br>
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=fff" alt="Shell">
+
+</td>
 </tr>
 <tr>
 <td>
@@ -252,9 +258,10 @@ Issues:
 <td valign="top">
 
 <details>
-<summary>10 PRs, 8 issues</summary>
+<summary>11 PRs, 8 issues</summary>
 
 PRs:
+- [cleanup / bugfix: replace hand-rolled Kafka wire protocol with franz-go's kmsg](https://github.com/KafScale/platform/pull/132)
 - [fix: move produce tagged fields inside partition loop](https://github.com/KafScale/platform/pull/127)
 - [feat: fetch partition routing and on-demand metadata refresh](https://github.com/KafScale/platform/pull/126)
 - [fix: route group coordination requests to a single broker to prevent split brain](https://github.com/KafScale/platform/pull/125)
@@ -323,9 +330,10 @@ Issues:
 <td valign="top">
 
 <details>
-<summary>1 PR</summary>
+<summary>2 PRs</summary>
 
 PRs:
+- [fix(cloud-sink): widen int8/int16 values for Avro int](https://github.com/lensesio/stream-reactor/pull/2162)
 - [Fix connect.s3.vhost.bucket inverted semantics](https://github.com/lensesio/stream-reactor/pull/2013)
 
 </details>
@@ -492,6 +500,32 @@ PRs:
 Issues:
 - [ClassNotFoundException when loading user-defined resource classes from uploaded JARs](https://github.com/apache/flink-agents/issues/515)
 
+</details>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<b><a href="https://github.com/klaudworks/ralph-meets-rex">klaudworks/ralph-meets-rex</a></b> <i>(creator)</i><br>
+CLI tool that orchestrates multi-step AI coding workflows<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript">
+
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
+</details>
+
+</td>
+<td>
+
+<details>
+<summary>&nbsp;</summary>
 </details>
 
 </td>
